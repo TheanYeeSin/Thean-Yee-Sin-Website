@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Programming",
+    "years": "6",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "Web Development",
+    "years": "2",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "Database Management",
+    "years": "1",
+    "proficiency": "Beginner"
+  },
+  {
+    "name": "Data Analysis and Management",
+    "years": "2",
+    "proficiency": "Beginner"
+  },
+  {
+    "name": "Machine Learning",
+    "years": "1",
+    "proficiency": "Beginner"
+  },
+  {
+    "name": "Version Control",
+    "years": "2",
+    "proficiency": "Beginner"
+  },
+  {
+    "name": "Photo Editing",
+    "years": "4",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "Video Editing",
+    "years": "3",
+    "proficiency": "Intermediate"
+  }
+]
