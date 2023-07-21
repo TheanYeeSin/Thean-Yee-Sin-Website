@@ -5,7 +5,7 @@
     "img_src": "images/projects/Mental-Health-Chatbot.png",
     "content": "This is a web-based mental health chatbot developed in Python (my final year project in university). This chatbot offers a safe space for mental health support, using natural language processing and machine learning to engage in meaningful conversations. It aims to provide mental health edicaution and help users to manage stress. The functionalities included are chatting, test, exercises, sos, journalling and more. Built with Python Flask.",
     "link": "https://github.com/MrYuShan/Web-Based-Python-Mental-Health-Chatbot",
-    "tag": ["Python", "Flask", "SQLAlchemy", "Chatbot", "Machine Learning"],
+    "tag": "Python, Flask, SQLAlchemy, Chatbot, Machine Learning",
     "icon": "icon brands fa-github"
   },
   {
@@ -14,7 +14,7 @@
     "img_src": "images/projects/University-Projects.gif",
     "content": "During my university years, I have completed many assignments and projects. I have uploaded most of them to GitHub. Ranging from Data Science, Machine Learning, Database, Computer Vision and more. Check out more in my GitHub!",
     "link": "https://github.com/MrYuShan/University-Projects",
-    "tag": ["Python", "Java", "C++", "Assembly", "LabView", "R", "Rust", "SQL"],
+    "tag": "Python, Java, C++, Assembly, LabView, R, Rust, SQL",
     "icon": "icon brands fa-github"
   }
 ]
