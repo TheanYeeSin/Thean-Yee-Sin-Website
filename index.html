@@ -89,6 +89,7 @@
                 });
             </script>
           </div>
+          <blockquote>Find out more about me at the 'About' tab.</blockquote>
         </article>
 
         <!-- About -->
@@ -254,9 +255,9 @@
         <!-- Work -->
         <article id="work">
           <h2 class="major">Work</h2>
-          <div id="work list">
+          <div id="work-list">
             <script>
-              const workList = document.getElementById("work list");
+              const workList = document.getElementById("work-list");
               fetch("./contents/works.json")
                 .then((res) => res.json())
                 .then((data) => {
@@ -277,9 +278,9 @@
         <!-- Project -->
         <article id="project">
           <h2 class="major">Project</h2>
-          <div id="project list">
+          <div id="project-list">
             <script>
-              const projectList = document.getElementById("project list");
+              const projectList = document.getElementById("project-list");
               fetch("./contents/projects.json")
                 .then((res) => res.json())
                 .then((data) => {
@@ -399,6 +400,26 @@
         <!--Documents-->
         <article id="document">
           <h2 class="major">Document</h2>
+          <div>
+            <ul class="actions" id="document-list">
+              <script>
+                const documentList = document.getElementById("document-list");
+                fetch("./documents/documents.json")
+                  .then((res) => res.json())
+                  .then((data) => {
+                    console.log(data);
+                    data.forEach((doc) => {
+                      documentList.insertAdjacentHTML(
+                        "beforeend",
+                        `<li>
+                          <a href=${doc.file_path} class="button icon solid fa-download" download>${doc.name}</a>
+                        </li>`
+                      );
+                    });
+                  });
+              </script>
+            </ul>
+          </div>
         </article>
 
         <!-- Elements -->
