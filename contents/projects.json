@@ -1,10 +1,12 @@
 [
   {
     "title": "Food/Restaurant Review Mobile App",
-    "year": "Present",
+    "year": "2023",
     "img_src": "images/projects/Food-Review-App.jpg",
     "content": "As someone who really likes food. It would be awesome to have a personal app that let me record my own reviews and ratings of the food I have tried (like a personal note). However, there isn't an app that allows user to do that (only those with online review), so I decided to create one. This app is built with Flutter and still in development.",
-    "tag": "Flutter, Dart, Mobile App"
+    "tag": "Flutter, Dart, Mobile App",
+    "icon": "icon brands fa-github",
+    "link": "https://github.com/TheanYeeSin/Flutter-Food-Review-App"
   },
   {
     "title": "Web-based Python Mental Health Chatbot (FYP)",
