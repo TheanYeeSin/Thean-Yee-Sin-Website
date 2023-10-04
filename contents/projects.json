@@ -1,5 +1,12 @@
 [
   {
+    "title": "Pygame",
+    "year": "Present",
+    "img_src": "images/projects/Pygame.png",
+    "content": "Learning Pygame",
+    "tag": "Python, Pygame"
+  },
+  {
     "title": "Food/Restaurant Review Mobile App",
     "year": "2023",
     "img_src": "images/projects/Food-Review-App.png",
