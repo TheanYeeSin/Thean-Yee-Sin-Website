@@ -1,5 +1,14 @@
 [
   {
+    "position": "Full Stack Engineer",
+    "start_year": "2023",
+    "end_year": "Present",
+    "type": "Internship",
+    "company": "Ventionex",
+    "img_src": "images/works/Ventionex.png",
+    "content": "Ventionex specializes in offering turnkey physical and cybersecurity solutions for critical infrastructure. Currently working here."
+  },
+  {
     "position": "Software Engineer",
     "start_year": "2022",
     "end_year": "2022",
