@@ -6,7 +6,8 @@
     "type": "Internship",
     "company": "Ventionex",
     "img_src": "images/works/Ventionex.png",
-    "content": "Ventionex specializes in offering turnkey physical and cybersecurity solutions for critical infrastructure. Currently working here."
+    "content": "Ventionex specializes in offering turnkey physical and cybersecurity solutions for critical infrastructure. Currently working here.",
+    "tag": "React.JS, Python Flask, RestAPI, Docker, Automated Testing, PostgreSQL..."
   },
   {
     "position": "Software Engineer",
@@ -15,6 +16,7 @@
     "type": "Internship",
     "company": "Pickles Auctions",
     "img_src": "images/works/Pickles.png",
-    "content": "Pickles Auctions is an auction company specializing in cars, salvage, industrial and more. As a software engineer intern in the IT department, I had the opportunity to work on various projects. During my time at Pickles, I worked as a mobile application tester and web developer. As a mobile tester, I tested and debugged the mobile application to ensure its seamless functionality. On the other hand, as a web developer, I collaborated with the team to create a captivating web application for the company. Leveraging technologies such as React.js, Next.js, TypeScript, we delivered a user-friendly and visually appealing web experience. My time at Pickles not only provided me with invaluable technical skills but also taught me the importance of teamwork and communication."
+    "content": "Pickles Auctions is an auction company specializing in cars, salvage, industrial and more. As a software engineer intern in the IT department, I had the opportunity to work on various projects. During my time at Pickles, I worked as a mobile application tester and web developer. As a mobile tester, I tested and debugged the mobile application to ensure its seamless functionality. On the other hand, as a web developer, I collaborated with the team to create a captivating web application for the company. Leveraging technologies such as React.js, Next.js, TypeScript, we delivered a user-friendly and visually appealing web experience. My time at Pickles not only provided me with invaluable technical skills but also taught me the importance of teamwork and communication.",
+    "tag": "React.JS, Next.JS, Mobile App Testing, Frontend Development..."
   }
 ]
