@@ -1,4 +1,4 @@
 # Thean-Yee-Sin-Website
-Website made to display my latest updates
+Just a simple website to display my projects and stuff
 
 https://theanyeesin.github.io/Thean-Yee-Sin-Website/ 
