@@ -402,7 +402,6 @@
                 fetch("./documents/documents.json")
                   .then((res) => res.json())
                   .then((data) => {
-                    console.log(data);
                     data.forEach((doc) => {
                       documentList.insertAdjacentHTML(
                         "beforeend",
